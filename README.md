@@ -10,23 +10,12 @@ This is a template/outline that demonstrates:
 - Color-coded interface elements
 - Organized tool categorization
 
-## Features
-- 📋 4-page menu system with easy navigation
-- 🎨 Colorful and well-structured UI using colorama
-- 🔧 Organized tool categories:
-  - Network Tools
-  - Web Tools
-  - OSINT Tools
-  - Doxing Tools
-  - Exploitation Tools
-  - Forensics Tools
 
 ## Usage
 This is a template meant to be built upon. You can:
-1. Get templates from this repository
-2. Replace the tool placeholders with your actual tool implementations
-3. Modify the categories and menu structure to suit your needs
-4. Add your own functionality while maintaining the clean interface
+1. Replace the tool placeholders with your actual tool implementations
+2. Modify the categories and menu structure to suit your needs
+3. Add your own functionality while maintaining the clean interface
 
 ## Structure
 - Clear screen functionality for clean display
@@ -43,5 +32,7 @@ You can freely modify this template by:
 - Implementing actual tool functionality
 
 ## Note
-This is currently a UI template focusing on the visual presentation and menu structure. It provides a foundation for building your own multi-tool application while maintaining a organized interface.
+This is currently a UI template focusing on the visual presentation and menu structure. It provides a foundation for building your own multi-tool application while maintaining a professional and organized interface.
 
+## License
+This template is free to use, modify, and distribute. Feel free to build upon it for your own projects.
